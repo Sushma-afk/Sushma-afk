@@ -1,70 +1,133 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Susma Poudel</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Susma Poudel | Profile</title>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+  <!-- Bootstrap CSS -->
+  <link 
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" 
+    rel="stylesheet"
+  >
+</head>
 
----
+<body class="bg-light">
 
-## 🙋‍♀️ About Me
+<div class="container py-5">
 
-* 🎓 Studying **Computer Science**
-* 💻 Currently learning **C#, Python, Databases**
-* 🧠 Interested in **Software Engineering & Emerging Technologies**
-* 🌍 From **Nepal 🇳🇵**
-* ✨ Goal: *Build meaningful and reliable software*
+  <!-- Profile Header -->
+  <div class="text-center mb-5">
+    <h1 class="fw-bold">Hi 👋, I am Susma Poudel</h1>
+    <h4 class="text-muted">
+      Computer Science Student | Aspiring Software Developer
+    </h4>
 
----
+    <img 
+      src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" 
+      alt="Profile views"
+      class="mt-3"
+    >
+  </div>
 
-## 🛠️ Tech Stack
+  <!-- About Me -->
+  <div class="card shadow-sm mb-4">
+    <div class="card-body">
+      <h3 class="card-title">🙋‍♀️ About Me</h3>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">🎓 Studying Computer Science</li>
+        <li class="list-group-item">💻 Currently learning C Sharp, Python, and Databases</li>
+        <li class="list-group-item">🧠 Interested in Software Engineering and Emerging Technologies</li>
+        <li class="list-group-item">🌍 From Nepal 🇳🇵</li>
+        <li class="list-group-item">✨ Goal: Build meaningful and reliable software</li>
+      </ul>
+    </div>
+  </div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+  <!-- Tech Stack -->
+  <div class="card shadow-sm mb-4">
+    <div class="card-body">
+      <h3 class="card-title">🛠️ Tech Stack</h3>
 
----
+      <span class="badge bg-success m-1">C Sharp</span>
+      <span class="badge bg-primary m-1">Python</span>
+      <span class="badge bg-secondary m-1">SQLite</span>
+      <span class="badge bg-warning text-dark m-1">Linux</span>
+    </div>
+  </div>
 
-## 📊 GitHub Stats
+  <!-- GitHub Stats -->
+  <div class="card shadow-sm mb-4">
+    <div class="card-body text-center">
+      <h3 class="card-title">📊 GitHub Statistics</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
-</p>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"
+        class="img-fluid mb-3"
+        alt="GitHub stats"
+      >
 
----
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"
+        class="img-fluid"
+        alt="GitHub streak"
+      >
+    </div>
+  </div>
 
-## 🚀 Top Languages
+  <!-- Top Languages -->
+  <div class="card shadow-sm mb-4">
+    <div class="card-body text-center">
+      <h3 class="card-title">🚀 Top Languages</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"
+        class="img-fluid"
+        alt="Top languages"
+      >
+    </div>
+  </div>
 
----
+  <!-- Projects -->
+  <div class="card shadow-sm mb-4">
+    <div class="card-body">
+      <h3 class="card-title">📌 Projects</h3>
+      <ul>
+        <li><strong>WeAreCars</strong> – Python GUI Car Booking System</li>
+        <li><strong>C Sharp Grading System</strong> – Console application with file handling</li>
+        <li><strong>SQLite Database Practice</strong> – Create, read, update, and delete operations</li>
+      </ul>
+    </div>
+  </div>
 
-## 📌 Projects
+  <!-- Contact -->
+  <div class="card shadow-sm">
+    <div class="card-body">
+      <h3 class="card-title">📫 Connect With Me</h3>
 
-* 🔹 **WeAreCars** – Python GUI Car Booking System  
-* 🔹 **C# Grading System** – Console app with file handling  
-* 🔹 **SQLite Database Practice** – CRUD operations  
+      <a 
+        href="https://github.com/YOUR_USERNAME" 
+        class="btn btn-dark me-2"
+        target="_blank"
+      >
+        GitHub
+      </a>
 
----
+      <a 
+        href="https://linkedin.com/in/YOUR_LINKEDIN" 
+        class="btn btn-primary"
+        target="_blank"
+      >
+        LinkedIn
+      </a>
+    </div>
+  </div>
 
-## 📫 Connect With Me
+  <!-- Footer -->
+  <p class="text-center text-muted mt-4">
+    ⭐ Thank you for visiting my profile
+  </p>
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+</div>
 
----
-
-⭐ *Thanks for visiting my profile!*
+</body>
+</html>
