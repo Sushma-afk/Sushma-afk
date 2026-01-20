@@ -1,4 +1,5 @@
 👋 Hi, I’m Susma
+
 🎓 Computer science student  
 📚 Studying C#, Python, and SQLite  
 🛠 Applying concepts through practice and coursework  
