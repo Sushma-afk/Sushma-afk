@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi, I’m Susma
+🎓 Computer science student  
+📚 Studying C#, Python, and SQLite  
+🛠 Applying concepts through practice and coursework  
+🧠 Learning core programming principles  
+🎯 Goal: Develop strong software development fundamentals
 
 <!--
 **Sushma-afk/Sushma-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
