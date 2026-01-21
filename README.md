@@ -39,9 +39,49 @@ def gen():
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurabsapkota&theme=tokyonight" />
 </p>
 
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushmapoudel&theme=tokyo-night" />
+</p>
+
+---
+
+## 📚 Currently Learning
+- Advanced Object-Oriented Programming  
+- Data Structures and Algorithms  
+- Database Design and Management  
+- Web Development Fundamentals  
+
+---
+
+## 🏆 Achievements
+- ✅ Completed multiple academic programming projects  
+- ✅ Hands-on experience with Git and GitHub  
+- ✅ Practical exposure to Linux command line tools  
+
+---
+
+## 💬 Developer Quote
+<p align="center">
+  <em>"Learning to write programs stretches your mind and helps you think better."</em>
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/sushmapoudel">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
 """
-
+    
 open("README.md","w",encoding="utf-8").write(gen())
