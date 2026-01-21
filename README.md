@@ -10,10 +10,12 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science / IT Student  
-- 💻 Learning software development  
-- 🌱 Interested in C#, Java, Web & IoT  
-
+- 🎓 Computer Science / IT Student   
+💻 Exploring C#, Python, and SQLite  
+🛠 Turning theory into practice  
+🧠 Learning how software works behind the scenes  
+🎯 Goal: Build a solid programming foundation
+  
 ---
 
 ## 🛠️ Tech Stack
